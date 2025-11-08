@@ -1,0 +1,9 @@
+black
+pytest
+pandas
+numpy
+scikit-learn
+streamlit
+fastapi
+uvicorn
+EOF
