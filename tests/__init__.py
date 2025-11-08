@@ -1,1 +1,1 @@
-__init__.py
+# make tests a package
