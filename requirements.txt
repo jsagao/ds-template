@@ -6,4 +6,3 @@ scikit-learn
 streamlit
 fastapi
 uvicorn
-EOF
